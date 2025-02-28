@@ -10,4 +10,4 @@ The assets in this repository are used by the Clusternown bot to automate in-gam
 
 This repository is publicly accessible and archived for reference purposes. It is provided as-is and will not receive further updates.
 
-For more details, visit the main repository: [Clusternown Renown Bot](https://github.com/moealkurdi/Clusternown).
+For more details, visit the main repository: [Clusternown Renown Bot](https://github.com/mhmdxsadk/Clusternown).
